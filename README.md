@@ -3,7 +3,7 @@ This project is an implementation of a navigational system for the University of
 
 <img width="1144" alt="Screen Shot 2023-05-20 at 1 17 00 AM" src="https://github.com/abhati27/Campus-Navigator/assets/60200047/4bc93b80-a091-48f6-b14b-f1c0e022da46">
 
-(You can use this as reference while running rhe program)
+(You can use this as reference while running the program)
 
 ## File Structure
 * `main.cpp`: This is the main driver code for the project. It reads data from the OpenStreetMap, constructs a graph representing the University of Illinois campus, and performs pathfinding using Dijkstra's algorithm.
